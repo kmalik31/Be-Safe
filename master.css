@@ -1,0 +1,74 @@
+.body{
+  background-image: url(back.jpg);
+  background-size:  cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+}
+.div1
+{
+  margin-top: 170px;
+  font-size:60px;
+  color:white;
+  margin-left: 320px;
+}
+.form1
+{
+  border: none;
+  background: transparent;
+  width: 200px;
+  border-bottom: 1px solid black;
+
+}
+.ptag
+{
+  font-size: 12px;
+  text-align: left;
+  margin-left: 17px;
+  font-family: cursive;
+}
+.ptag1
+{
+  font-size: 12px;
+  text-align: center;
+  margin-left: 10px;
+  font-family: cursive;
+}
+input[type="text"]
+{
+  background-image: url(user1.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+input[type="password"]
+{
+  background-image: url(lock.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.besafe{
+  width: 120px;
+  height: 60px;
+}
+.buttonR{
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #00a5cf;
+  margin-left: 550px;
+  border: none;
+}
+.buttonL{
+  width:150px;
+  height: 60px;
+  border-radius: 7px;
+  background: rgb(0,0,0,0.1);
+  margin-left: 1000px;
+  border: 1px rgb(0,0,0,0.1) solid;
+  margin-top: 1px;
+}
+.org{
+  left:10px;
+  top:15px;
+
+}
